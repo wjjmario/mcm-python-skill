@@ -1,0 +1,4 @@
+interface:
+  display_name: "美赛建模 · Python"
+  short_description: "美赛 MCM/ICM 全流程：拆题、Python 求解、验证、英文论文与提交检查"
+  default_prompt: "使用 $mcm-python 帮我处理美赛题目，用 Python 建模求解并验证结果，整理英文论文与 AI 使用记录。"
